@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lab41Tom
+namespace Lab41Tom.Classes
 {
-    public abstract class Documents
+    class ResumePage : Pages
     {
-
     }
 }
