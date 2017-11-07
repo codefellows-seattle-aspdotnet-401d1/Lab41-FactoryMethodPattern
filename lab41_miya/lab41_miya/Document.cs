@@ -6,9 +6,9 @@ namespace lab41_miya
 {
     public abstract class Document
     {
-        protected abstract Page NewPage(string pageType) { }
+        protected abstract Page NewPage(string pageType);
 
-        public Page CreatePage()
+        public Page CreatePage(string pageType)
         {
             Page page = null;
 
@@ -17,6 +17,8 @@ namespace lab41_miya
             page.Edit();
             page.PrintCopies();
             page.Share();
+
+            return page;
         }
         
     }

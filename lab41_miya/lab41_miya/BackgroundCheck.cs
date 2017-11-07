@@ -4,6 +4,7 @@ using System.Text;
 
 namespace lab41_miya
 {
+    //concrete product inherits from product
     class BackgroundCheck : Page
     {
     }

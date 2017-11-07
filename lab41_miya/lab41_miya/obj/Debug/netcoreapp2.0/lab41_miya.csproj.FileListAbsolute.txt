@@ -1,0 +1,11 @@
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\obj\Debug\netcoreapp2.0\lab41_miya.csprojResolveAssemblyReference.cache
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\obj\Debug\netcoreapp2.0\lab41_miya.csproj.CoreCompileInputs.cache
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\obj\Debug\netcoreapp2.0\lab41_miya.AssemblyInfoInputs.cache
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\obj\Debug\netcoreapp2.0\lab41_miya.AssemblyInfo.cs
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\bin\Debug\netcoreapp2.0\lab41_miya.deps.json
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\bin\Debug\netcoreapp2.0\lab41_miya.runtimeconfig.json
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\bin\Debug\netcoreapp2.0\lab41_miya.runtimeconfig.dev.json
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\bin\Debug\netcoreapp2.0\lab41_miya.dll
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\bin\Debug\netcoreapp2.0\lab41_miya.pdb
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\obj\Debug\netcoreapp2.0\lab41_miya.dll
+C:\Users\shami\Source\Repos\Lab41-FactoryMethodPattern\lab41_miya\lab41_miya\obj\Debug\netcoreapp2.0\lab41_miya.pdb

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace lab41_miya
 {
+    //the resume class (concrete creator) inherits from document which is the creator
     class Resume : Document
     {
         protected override Page NewPage(string pageType)

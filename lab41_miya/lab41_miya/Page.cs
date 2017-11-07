@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lab41_miya
 {
-    class Page
+    public class Page
     {
         public string Name
         {
