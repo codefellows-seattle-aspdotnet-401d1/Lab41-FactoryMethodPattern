@@ -6,21 +6,23 @@ namespace Lab41Tom
 {
     public class Pages
     {
-        public string Paper { get; set; }
+        public string Font { get; set; }
+        public string TextColor { get; set; }
+        public int NumberOfPages { get; set; }
 
         public void Write()
         {
-            Console.WriteLine("Writing document");
+            Console.WriteLine("Writing pages");
         }
 
         public void Edit()
         {
-            Console.WriteLine("Editing document");
+            Console.WriteLine("Editing pages");
         }
 
         public void Print()
         {
-            Console.WriteLine("Printing document");
+            Console.WriteLine("Printing pages");
         }
     }
 }
