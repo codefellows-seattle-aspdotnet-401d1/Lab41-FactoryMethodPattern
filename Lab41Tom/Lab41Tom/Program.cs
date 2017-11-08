@@ -8,6 +8,7 @@ namespace Lab41Tom
         static void Main(string[] args)
         {
             Documents tomsDocs = new DocPlace();
+            //RequestDocuments method from Documents class, with docType of "Resume"
             tomsDocs.RequestDocuments("Resume");
 
             Console.Read();

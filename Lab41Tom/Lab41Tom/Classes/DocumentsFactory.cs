@@ -6,6 +6,7 @@ namespace Lab41Tom.Classes
 {
      public class DocumentsFactory
     {
+        //Depending on docType entered, create a new resume or report page
         public static Pages CreateDocuments(string docType)
         {
             Pages page = new Pages();

@@ -11,7 +11,7 @@ namespace Lab41Tom.Classes
         public int NumberOfPages { get; set; }
         public List<string> PageTypes = new List<string>();
 
-
+        //include list of page types during Write method
         public void Write()
         {
             Console.WriteLine("Writing pages");
