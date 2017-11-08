@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab41Tom.Classes;
+using System;
 
 namespace Lab41Tom
 {
@@ -6,7 +7,10 @@ namespace Lab41Tom
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Documents tomsDocs = new DocPlace();
+            tomsDocs.RequestDocuments("Resume");
+
+            Console.Read();
         }
     }
 }

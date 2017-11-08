@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lab41Tom
+namespace Lab41Tom.Classes
 {
     public abstract class Documents
     {
@@ -12,7 +12,7 @@ namespace Lab41Tom
         {
             Pages page = null;
 
-            page.CreateDocuments(docType);
+            page = CreateDocuments(docType);
             page.Write();
             page.Edit();
             page.Print();
