@@ -12,6 +12,11 @@ namespace Lab41George.Pages
         public string Title { get; set; }
         public string Body { get; set; }
 
+        public Page(string author)
+        {
+            Author = author;
+        }
+
         // default author so everything created is made by me!
         public string Author = "George";
 
