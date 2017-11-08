@@ -6,3 +6,9 @@
   - How to implement a factory design pattern.
 - What resources did you utilize for this assingment?
   - the lecture and the demo code.
+
+  1. Product -- Resume/Report
+  2. Concrete Product -- Pages
+  3. Creator -- Document Factory
+  4. Concrete Creator -- Document
+  
