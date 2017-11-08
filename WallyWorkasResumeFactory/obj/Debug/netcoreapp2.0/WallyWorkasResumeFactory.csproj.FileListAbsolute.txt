@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\bin\Debug\netcoreapp2.0\WallyWorkasResumeFactory.deps.json
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\bin\Debug\netcoreapp2.0\WallyWorkasResumeFactory.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\bin\Debug\netcoreapp2.0\WallyWorkasResumeFactory.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\bin\Debug\netcoreapp2.0\WallyWorkasResumeFactory.dll
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\bin\Debug\netcoreapp2.0\WallyWorkasResumeFactory.pdb
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\obj\Debug\netcoreapp2.0\WallyWorkasResumeFactory.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\obj\Debug\netcoreapp2.0\WallyWorkasResumeFactory.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\obj\Debug\netcoreapp2.0\WallyWorkasResumeFactory.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\obj\Debug\netcoreapp2.0\WallyWorkasResumeFactory.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\obj\Debug\netcoreapp2.0\WallyWorkasResumeFactory.dll
+C:\Users\acohr\source\repos\Lab41-FactoryMethodPattern\WallyWorkasResumeFactory\obj\Debug\netcoreapp2.0\WallyWorkasResumeFactory.pdb
