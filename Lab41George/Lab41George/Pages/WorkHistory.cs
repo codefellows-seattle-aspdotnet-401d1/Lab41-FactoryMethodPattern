@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Lab41George.Pages
 {
-    class WorkHistory
+    // each concreate product in herits the product class (Page)
+    class WorkHistory : Page
     {
     }
 }
