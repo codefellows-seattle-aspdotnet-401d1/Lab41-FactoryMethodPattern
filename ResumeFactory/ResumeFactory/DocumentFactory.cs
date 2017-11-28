@@ -6,6 +6,7 @@ namespace ResumeFactory
 {
     class DocumentFactory
     {
+        // Create a Document based on which type is passed in; Null or unrecognized inputs return a blank document
         public Document CreateDocument(string type)
         {
             switch (type)
